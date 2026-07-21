@@ -36,6 +36,14 @@ yarn-error.log*
 # vercel
 .vercel
 
+# prisma (SQLite resolves the relative DATABASE_URL against cwd, i.e. project root)
+/dev.db
+/dev.db-journal
+/prisma/dev.db
+/prisma/dev.db-journal
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+dev.log
