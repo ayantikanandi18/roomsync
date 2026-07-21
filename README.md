@@ -27,7 +27,7 @@ npx prisma db seed        # seeds 8 demo roommate profiles (see below)
 npm run dev
 ```
 
-Open http://localhost:3000/, sign up, fill out your preferences on `/profile`, then go to `/discover`.
+Open http://localhost:3000/ (Next.js defaults to port 3000; if that port is already in use on your machine, it will automatically fall back to 3001, 3002, etc. — check the terminal output for the actual URL). Sign up, fill out your preferences on `/profile`, then go to `/discover`.
 
 ### Demo accounts
 
