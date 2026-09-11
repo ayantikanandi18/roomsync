@@ -1,6 +1,6 @@
 # Roomsync — Advanced Roommate Finder
 
-A roommate-matching app built to go beyond a filter list: every profile shows a **computed compatibility score** (not just tags), swipe-based discovery, mutual-match creation, and in-app messaging between matches.
+A roommate-matching app built to go beyond a filter list. Here every profile shows a **computed compatibility score** (not just tags), swipe-based discovery, mutual-match creation, and in-app messaging between matches.
 
 ## What makes it "advanced"
 
